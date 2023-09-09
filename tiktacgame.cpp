@@ -1,4 +1,4 @@
-//TIC-TAC-Agoo Game in C++/C
+//TIC-TAC-TOE Game in C++/C
 
 //Importing the inbuild libraries in CPP
 #include <iostream>
@@ -108,7 +108,7 @@ bool gameover(){
 
 int main()
 {
-    cout<<"\t\t\t\t\tWELCOME Agoo inc.\n";
+    cout<<"\t\t\t\t\tWELCOME\n";
 	cout<<"\t\t\tT I C K -- T A C -- T O E -- G A M E\t\t\t";
     cout<<"\n\t\t\t\tFOR 2 PLAYERS\n\t\t\t";
     display_board();
