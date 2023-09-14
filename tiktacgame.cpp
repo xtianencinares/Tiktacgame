@@ -37,7 +37,7 @@ void player_turn(){
     if(turn == 'X'){
         cout<<"\ntPlayer - 1 [X] turn : ";
     }
-    else if(turn == 'O'){
+     else if(turn == 'O'){
         cout<<"\ntPlayer - 2 [O] turn : ";
     }
     //Taking input from user
