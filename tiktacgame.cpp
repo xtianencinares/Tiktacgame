@@ -17,7 +17,7 @@ bool draw = false;
 
 void display_board(){
 
-    //Print Game Board LAYOUT
+  //Print Game Board LAYOUT
 
     cout<<"PLAYER - 1 [X]\t PLAYER - 2 [O]\n\n";
     cout<<"\t\t\t\t     |     |     \n";
