@@ -116,7 +116,7 @@ int main()
         
         player_turn();
 
-	    
+	
     }
     //if someone wins then there must be a change of turn  after update 
     if(turn == 'O' && draw == false){
