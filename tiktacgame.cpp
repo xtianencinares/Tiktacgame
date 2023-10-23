@@ -60,7 +60,7 @@ void player_turn(){
         default:
             cout<<"Invalid Move";
     }
-
+ 
     if(turn == 'X' && Board[row][column] != 'X' && Board[row][column] != 'O'){
         //updating the position for 'X' symbol if
         //it is not already occupied and change the turn
